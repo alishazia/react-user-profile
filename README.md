@@ -84,4 +84,4 @@
 - [ ] Choice of libraries matters. Dont use a library if not required
 - [ ] Finally from the user details page, I should be able to download a pdf with all the user info.
 
-Good Luck to me :smiley: :+1: :hearty_eyes:
+Good Luck to me :smiley: :+1: :heart_eyes:
