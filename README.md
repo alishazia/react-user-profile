@@ -83,6 +83,8 @@
 - [ ] Any extra feature like search sort and filter would be applaudable
 - [ ] Modular and reusable code is a **must**
 - [ ] Optionally on the user details page, I can click the location and get directions to the user address
+- [ ] Optional to create pipeline from github actions
+- [ ] Optional to deploy app on some free service e.g. heroku
 - [ ] Choice of libraries matters. Dont use a library if not required
 - [ ] Finally from the user details page, I should be able to download a pdf with all the user info (Optional).
 
