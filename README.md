@@ -79,9 +79,11 @@
 - [ ] Clicking the card will take to a details page
 - [ ] Details page contains all the info of the user presentable layout
 - [ ] Aesthetic looks will fetch extra marks
+- [ ] Code ethics and formatting should be followed at the times
 - [ ] Any extra feature like search sort and filter would be applaudable
 - [ ] Modular and reusable code is a **must**
+- [ ] Optionally on the user details page, I can click the location and get directions to the user address
 - [ ] Choice of libraries matters. Dont use a library if not required
-- [ ] Finally from the user details page, I should be able to download a pdf with all the user info.
+- [ ] Finally from the user details page, I should be able to download a pdf with all the user info (Optional).
 
 Good Luck to me :smiley: :+1: :heart_eyes:
